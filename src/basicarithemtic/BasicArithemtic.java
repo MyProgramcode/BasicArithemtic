@@ -20,4 +20,11 @@ public class BasicArithemtic {
     public int square(int x){
         return x*x;
     }
+    
+    
+     
+              public int add(int x){
+        return x+x;
+              }
+
 }
